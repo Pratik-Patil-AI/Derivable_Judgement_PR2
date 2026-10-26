@@ -18,6 +18,7 @@ As a data analyst at a public health research organization, this project uses st
 | `Derivable_Judgement.ipynb` | Part A theory + Part B practical analysis (code, charts, interpretations) |
 | `Derivable_Judgement_Theory.pdf` | Theory document with definitions, formulas and test-selection guide |
 | `health_dataset.csv` | 500-record health dataset used throughout |
+| `Derivable_Judgement_images` | It contains all the images related to project |
 | `README.md` | This file |
 
 ## 📊 Dataset
